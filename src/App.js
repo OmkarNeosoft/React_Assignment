@@ -2,7 +2,6 @@ import logo from './logo.svg';
 import './App.css';
 import List from './components/List';
 import Product from './components/Product';
-import Application from './components/Application';
 import ApplicationForm from './components/ApplicationForm';
 
 function App() {
