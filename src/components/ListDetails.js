@@ -28,20 +28,3 @@ const ListDetails=(props)=>
     )
 }
 export default ListDetails;
-{/* <div className="card">
-                                    <table >
-                                        <tr>
-                                            <td>Name</td>
-                                            <td>{value.pname} </td>
-                                        </tr>
-                                        <tr>
-                                            <td>Price</td>
-                                            <td>{value.price} </td>
-                                        </tr>
-                                        <tr>
-                                            <td>Price</td>
-                                            <td>{value.quantity} </td>
-                                        </tr>
-                                    </table>
-
-                                </div> */}
